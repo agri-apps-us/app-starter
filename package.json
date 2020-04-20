@@ -1,6 +1,6 @@
 {
   "name": "@agri-apps-us/app-starter",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -8,9 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@agri-apps-us/app-core": "0.0.6",
-    "@agri-apps-us/app-ui": "0.0.5",
-    "core-js": "^3.6.4",
+    "@agri-apps-us/app-core": "0.0.7",
+    "@agri-apps-us/app-ui": "0.0.6",
     "lodash": "^4.17.15",
     "vue": "^2.6.11",
     "vue-router": "^3.1.6",
